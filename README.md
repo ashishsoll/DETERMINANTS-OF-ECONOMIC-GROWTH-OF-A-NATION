@@ -13,9 +13,12 @@ The original dataset files are saved as follows:
 
 The modified dataset files which are used for my research purposes are named as follows:
 1. Economy and Growth - Use Case
-2. Education - Use Case
-3. Financial Sector - Use Case
-4. Health - Use Case
+2. Education - Use Case 1
+3. Education - Use Case 2
+4. Financial Sector - Use Case
+5. Health - Use Case
+
+Education - Use Case 1 and Education Use Case 2 are two files for two variables.
 
 The following files are larger than 25MB and could not by uploaded to the Github account.
 1. Economy and Growth - Original

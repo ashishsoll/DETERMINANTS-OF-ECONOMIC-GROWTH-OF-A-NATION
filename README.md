@@ -9,7 +9,7 @@ This project has 4 folders as follows:
 
 The main folder consists of the literature document which has the abstract and literature review.
 The Data folder consists of various files used for analysis in this project.
-The Code folder consists of hte code written in a certain programming language.
+The Code folder consists of the code written in a certain programming language.
 Technical Reports folder consists of the output of the code.
 
 Refer to read.me files in the individual folders for more details.

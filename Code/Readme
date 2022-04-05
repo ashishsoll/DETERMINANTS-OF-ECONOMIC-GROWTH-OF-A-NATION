@@ -1,10 +1,11 @@
 DATA ANALYTICS, BIG DATA AND PREDICTIVE ANALYTICS PROJECT
 
-This branch consits of the initial code written for data exploration and visualization of the data. In this part, the education dataset is analysed.
-There are two variables considered for the education dataset :
+The project is divided into 4 parts:
+1. Data Description
+2. Regression Analysis (Part 1)
+3. K Means Algorithm (Part 2)
+4. K Nearest Neighbours (Part 3)
 
-Literacy rate, adult total and
-Current education expenditure
-The code summarizes the education dataset for multiple years from 2001 to 2020 for each of the two variables considered. Descriptive statistics such as minimum, mean values, max values etc are generated. A line graph depicts the variation of the variables over 20 years.
+Refer to files uploaded in this section for the code and output knit files.
 
-The code is written in R programming and will require a compatible software such as RStudio to open the file.
+The code is written in R programming and will require a compatible software such as RStudio to open the code file.

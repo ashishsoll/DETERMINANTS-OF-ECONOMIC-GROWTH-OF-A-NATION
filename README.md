@@ -22,8 +22,8 @@ B. - Clean the data to replace and missing values with the mean or median values
 
 C. - After the dataset is ready for analyses, start with implementing the first model - Linear Regression Analysis. This analysis will allow a curve to be fitted to predict the dependent variable (GDP Growth) using the independent variables (Education, Health and Financial Sector parameters).
 
-D. - Implement the second model - KNN Classification Algorithm and analyse the predicted values
+D. - Implement the second model - K Means clustering and analyse the predicted values
 
-E. - Decide on which model to be implemented as a third model (Logistic Regression or Naive Bayes Classification or any other classification algorithm) and analyse.
+E. - Implement the third model - KNN Classification Algorithm and analyse the predicted values
 
 F. - Prepare the Project Report summarizing the findings and ascertaining remarks on continuity of work. 
